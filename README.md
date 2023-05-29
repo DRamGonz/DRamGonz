@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋</h1>
-<h1 align="center">I'm Diego Ramos, Welcome.</h1>
+<h3 align="center">Hi 👋 I'm Diego Ramos, Welcome!</h3>
 
-<h2 align="left">- My Stats:</h2>
-<div align="center">
+<p align="center">
+    <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=DRamGonz&include_all_commits=true&count_private=true&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=DRamGonz&include_all_commits=true&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DRamGonz&include_all_commits=true&count_private=true&show_icons=true" />
+    </picture>
+</p>
 
-![DRamGonz's Stats](https://github-readme-stats.vercel.app/api?username=DRamGonz&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-            
-![DRamGonz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DRamGonz&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
-    
-</div>
+<p align="center">
+    <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DRamGonz&langs_count=10&theme=dark" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DRamGonz&hide_progress=true&langs_count=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRamGonz&langs_count=10" />
+    </picture>
+</p>
